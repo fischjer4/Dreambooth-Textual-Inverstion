@@ -12,7 +12,7 @@ Initial Setup:
 7. Deploy On Demand (otherwise others can interrupt it)
 8. Go to MyPods > drop down toggle for your pod > Connect > Connect to Jupyter lab
 9. In the Jupyter Notebook select Python 3 to open a new window
-10. Enter `!git clone [https://github.com/fischjer4/Dreambooth-Textual-Inverstion.git](https://github.com/fischjer4/Dreambooth-Textual-Inverstion.git)`
+10. Enter `!git clone https://github.com/fischjer4/Dreambooth-Textual-Inverstion.git`
     - This will clone the DreamBooth Textual Inversion repo inside of your Jupyter workspace folder
 11. You can discard the window used to clone now
 12. Open the repo folder and double click on the orange file named `train_your_images`
